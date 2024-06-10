@@ -1,7 +1,7 @@
 class Solution {
 public:
    int longestConsecutive(vector<int>& nums) {
-    unordered_map <int , bool> hash ;
+    map <int , bool> hash ;
     for(int i : nums) hash[i] = false ;
     int currLen , ans = 0 ;
 
