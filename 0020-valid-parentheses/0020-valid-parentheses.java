@@ -1,43 +1,23 @@
 class Solution {
-  public char opp(char x) {
-        if (x == '(')
-            return ')';
-        else if(x == ')')
-            return '(' ;
-
-        else if (x == '[')
-            return ']';
-        else if (x == ']')
-            return '[';
-
-        else if (x == '}')
-            return '{';
-        else
-            return '}';
-    }
+ 
 
     public boolean isValid(String s) {
-        if (s.length() % 2 == 1) // odd
-            return false;
-        int n = s.length();
-        Stack<Character> stk = new Stack<>();
-
-        for (int i = 0; i < n; i++) {
-            if (stk.empty()) {
-                stk.push(s.charAt(i));
+       Stack <Character> stk = new Stack <Character>() ; 
+        int n = s.length() ; 
+        for(int i = 0 ; i < n ; i++){
+            if(s.charAt(i) == '(')
+                stk.push(')') ; 
+            
+           else if(s.charAt(i) == '[')
+                stk.push(']') ; 
+            
+           else if(s.charAt(i) == '{')
+                stk.push('}') ; 
+            
+            else if (stk.empty() || stk.pop() != s.charAt(i)){
+                return false ; 
             }
-            else {
-                char stc = stk.peek() ;
-                if(s.charAt(i) == opp(stc) && (stc == '(' || stc == '{' || stc == '[')) {
-                    stk.pop();
-                }
-                else stk.push(s.charAt(i)) ;
-            }
-
         }
-        if(stk.empty())
-            return true ;
-        else return false ;
-
+        return stk.empty() ; 
     }
 }
