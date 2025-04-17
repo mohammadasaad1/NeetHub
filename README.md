@@ -20,4 +20,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohammadasaad1/NeetHub/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mohammadasaad1/NeetHub/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mohammadasaad1/NeetHub/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
