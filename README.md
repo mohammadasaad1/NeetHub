@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohammadasaad1/NeetHub/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/mohammadasaad1/NeetHub/tree/master/0015-3sum) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohammadasaad1/NeetHub/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/mohammadasaad1/NeetHub/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/mohammadasaad1/NeetHub/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -28,4 +29,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mohammadasaad1/NeetHub/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/mohammadasaad1/NeetHub/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/mohammadasaad1/NeetHub/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
