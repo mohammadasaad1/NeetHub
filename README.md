@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/mohammadasaad1/NeetHub/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mohammadasaad1/NeetHub/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/mohammadasaad1/NeetHub/tree/master/0036-valid-sudoku) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohammadasaad1/NeetHub/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/mohammadasaad1/NeetHub/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/mohammadasaad1/NeetHub/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohammadasaad1/NeetHub/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/mohammadasaad1/NeetHub/tree/master/0036-valid-sudoku) |
 ## Linked List
 |  |
 | ------- |
@@ -37,4 +39,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mohammadasaad1/NeetHub/tree/master/0015-3sum) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/mohammadasaad1/NeetHub/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
