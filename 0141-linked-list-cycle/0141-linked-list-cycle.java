@@ -17,16 +17,15 @@ public class Solution {
         ListNode f, s; 
 
         f = s = head;
-        boolean entr = false;
-        while(f != null && f.next != null && s.next != null && s.next.next != null){
-            entr = true; 
-            f = f.next;
-            s = s.next.next ;
+        
+        while(f != null && f.next != null){
+            s = s.next ;
+            f = f.next.next;
             if(s == f)
-                break;   
+                return true;   
         }
         
                     
-        return f == s && f != null && entr;
+        return false ;
     }
 }
