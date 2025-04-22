@@ -53,4 +53,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mohammadasaad1/NeetHub/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mohammadasaad1/NeetHub/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mohammadasaad1/NeetHub/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
