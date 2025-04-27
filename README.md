@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mohammadasaad1/NeetHub/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohammadasaad1/NeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Array
 |  |
 | ------- |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/mohammadasaad1/NeetHub/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/mohammadasaad1/NeetHub/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/mohammadasaad1/NeetHub/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohammadasaad1/NeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/mohammadasaad1/NeetHub/tree/master/0238-product-of-array-except-self) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohammadasaad1/NeetHub/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/mohammadasaad1/NeetHub/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohammadasaad1/NeetHub/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohammadasaad1/NeetHub/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohammadasaad1/NeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mohammadasaad1/NeetHub/tree/master/0155-min-stack) |
 ## Greedy
 |  |
