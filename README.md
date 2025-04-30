@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohammadasaad1/NeetHub/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mohammadasaad1/NeetHub/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohammadasaad1/NeetHub/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohammadasaad1/NeetHub/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -86,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mohammadasaad1/NeetHub/tree/master/0155-min-stack) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mohammadasaad1/NeetHub/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
