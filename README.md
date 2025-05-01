@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/mohammadasaad1/NeetHub/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/mohammadasaad1/NeetHub/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/mohammadasaad1/NeetHub/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mohammadasaad1/NeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammadasaad1/NeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/mohammadasaad1/NeetHub/tree/master/0238-product-of-array-except-self) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohammadasaad1/NeetHub/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohammadasaad1/NeetHub/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohammadasaad1/NeetHub/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mohammadasaad1/NeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Monotonic Stack
 |  |
 | ------- |
