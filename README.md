@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohammadasaad1/NeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammadasaad1/NeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/mohammadasaad1/NeetHub/tree/master/0238-product-of-array-except-self) |
+| [0739-daily-temperatures](https://github.com/mohammadasaad1/NeetHub/tree/master/0739-daily-temperatures) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohammadasaad1/NeetHub/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/mohammadasaad1/NeetHub/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/mohammadasaad1/NeetHub/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/mohammadasaad1/NeetHub/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammadasaad1/NeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mohammadasaad1/NeetHub/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/mohammadasaad1/NeetHub/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohammadasaad1/NeetHub/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/mohammadasaad1/NeetHub/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
