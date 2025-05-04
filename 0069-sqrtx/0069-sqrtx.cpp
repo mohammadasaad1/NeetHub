@@ -7,7 +7,7 @@ public:
         long long  ans = 0 ; 
          
         while(l <= r){
-            long long m = l + (r - l) / 2 ;
+            long long m = ((long long)l + (long long)r) / (long long) 2  ;
             long long now = (long long)m * m ; 
 
             if (now == x) return m ; 
