@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mohammadasaad1/NeetHub/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/mohammadasaad1/NeetHub/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammadasaad1/NeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Array
 |  |
@@ -125,4 +126,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mohammadasaad1/NeetHub/tree/master/0200-number-of-islands) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mohammadasaad1/NeetHub/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
