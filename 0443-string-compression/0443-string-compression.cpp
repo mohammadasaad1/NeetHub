@@ -5,6 +5,7 @@ public:
             chars[writing++] = ch;
     }
     int compress(vector<char>& chars) {
+        chars.push_back('(');
         int n = chars.size();
 
         if (n == 1)
@@ -36,14 +37,14 @@ public:
             current = chars[reading];
         }
 
-        // handle the last of the array
-        if (count == 1) {
-            chars[writing++] = current;
-        } else {
-            chars[writing++] = current;
-            string s = to_string(count);
-            helper(s, writing, chars);
-        }
+        // // handle the last of the array
+        // if (count == 1) {
+        //     chars[writing++] = current;
+        // } else {
+        //     chars[writing++] = current;
+        //     string s = to_string(count);
+        //     helper(s, writing, chars);
+        // }
         return writing;
     }
 };
