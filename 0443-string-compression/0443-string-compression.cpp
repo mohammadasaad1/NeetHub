@@ -1,42 +1,48 @@
 class Solution {
 public:
+    void helper(string& s, int& writing, vector<char>& chars) {
+        for (char ch : s)
+            chars[writing++] = ch;
+    }
     int compress(vector<char>& chars) {
-        int n = chars.size() ; 
-        if(n == 1) return 1;
+        int n = chars.size();
 
-        int  count = 0; 
-        char current = chars[0] ;
-        int  writing = 0 , reading = 0;
+        if (n == 1)
+            return 1;
 
-        while(reading < n){
+        int count, writing, reading;
 
-            if(current == chars[reading]) count++ , reading++;
-            else if(count == 1){
-                chars[writing++] = current; 
-                count = 0;
-                current = chars[reading];
+        char current = chars[0];
+
+        count = writing = reading = 0;
+
+        while (reading < n) {
+
+            if (current == chars[reading]) {
+                count++, reading++;
+                continue;
             }
-            else {
+
+            else if (count == 1) {
+                chars[writing++] = current;
+
+            } else {
                 chars[writing++] = current;
                 string s = to_string(count);
-                for(char ch : s)
-                chars[writing++] = ch; 
-                count = 0;
-                current = chars[reading];
+                helper(s, writing, chars);
             }
+
+            count = 0;
+            current = chars[reading];
         }
 
-        // handle the last of the array 
-        if(count == 1){
+        // handle the last of the array
+        if (count == 1) {
             chars[writing++] = current;
-        }
-        else {
+        } else {
             chars[writing++] = current;
             string s = to_string(count);
-                for(char ch : s)
-                chars[writing++] = ch;
-                count = 0;
-                current = chars[reading];
+            helper(s, writing, chars);
         }
         return writing;
     }
