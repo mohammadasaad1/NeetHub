@@ -8,8 +8,6 @@ public:
         chars.push_back('(');
         int n = chars.size();
 
-        if (n == 1)
-            return 1;
 
         int count, writing, reading;
 
