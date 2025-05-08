@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/mohammadasaad1/NeetHub/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/mohammadasaad1/NeetHub/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/mohammadasaad1/NeetHub/tree/master/0883-car-fleet) |
+| [0907-koko-eating-bananas](https://github.com/mohammadasaad1/NeetHub/tree/master/0907-koko-eating-bananas) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mohammadasaad1/NeetHub/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohammadasaad1/NeetHub/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/mohammadasaad1/NeetHub/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/mohammadasaad1/NeetHub/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/mohammadasaad1/NeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/mohammadasaad1/NeetHub/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/mohammadasaad1/NeetHub/tree/master/0907-koko-eating-bananas) |
 ## Counting
 |  |
 | ------- |
