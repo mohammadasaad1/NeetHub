@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohammadasaad1/NeetHub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0463-island-perimeter](https://github.com/mohammadasaad1/NeetHub/tree/master/0463-island-perimeter) |
 | [0739-daily-temperatures](https://github.com/mohammadasaad1/NeetHub/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/mohammadasaad1/NeetHub/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/mohammadasaad1/NeetHub/tree/master/0883-car-fleet) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mohammadasaad1/NeetHub/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohammadasaad1/NeetHub/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mohammadasaad1/NeetHub/tree/master/0069-sqrtx) |
+| [0792-binary-search](https://github.com/mohammadasaad1/NeetHub/tree/master/0792-binary-search) |
 ## Counting
 |  |
 | ------- |
