@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/mohammadasaad1/NeetHub/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/mohammadasaad1/NeetHub/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/mohammadasaad1/NeetHub/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/mohammadasaad1/NeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohammadasaad1/NeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammadasaad1/NeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/mohammadasaad1/NeetHub/tree/master/0200-number-of-islands) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mohammadasaad1/NeetHub/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/mohammadasaad1/NeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/mohammadasaad1/NeetHub/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/mohammadasaad1/NeetHub/tree/master/0463-island-perimeter) |
 ## Prefix Sum
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mohammadasaad1/NeetHub/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/mohammadasaad1/NeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/mohammadasaad1/NeetHub/tree/master/0792-binary-search) |
 ## Counting
 |  |
