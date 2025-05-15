@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/mohammadasaad1/NeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohammadasaad1/NeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammadasaad1/NeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohammadasaad1/NeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/mohammadasaad1/NeetHub/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/mohammadasaad1/NeetHub/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohammadasaad1/NeetHub/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0069-sqrtx](https://github.com/mohammadasaad1/NeetHub/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/mohammadasaad1/NeetHub/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohammadasaad1/NeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/mohammadasaad1/NeetHub/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/mohammadasaad1/NeetHub/tree/master/0907-koko-eating-bananas) |
 ## Counting
