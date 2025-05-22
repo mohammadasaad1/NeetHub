@@ -126,11 +126,13 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mohammadasaad1/NeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/mohammadasaad1/NeetHub/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/mohammadasaad1/NeetHub/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mohammadasaad1/NeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/mohammadasaad1/NeetHub/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/mohammadasaad1/NeetHub/tree/master/0463-island-perimeter) |
 ## Union Find
@@ -149,4 +151,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mohammadasaad1/NeetHub/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mohammadasaad1/NeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/mohammadasaad1/NeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
