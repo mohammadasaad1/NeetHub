@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/mohammadasaad1/NeetHub/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/mohammadasaad1/NeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohammadasaad1/NeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/mohammadasaad1/NeetHub/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammadasaad1/NeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohammadasaad1/NeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/mohammadasaad1/NeetHub/tree/master/0200-number-of-islands) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/mohammadasaad1/NeetHub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohammadasaad1/NeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/mohammadasaad1/NeetHub/tree/master/0036-valid-sudoku) |
+| [0139-word-break](https://github.com/mohammadasaad1/NeetHub/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/mohammadasaad1/NeetHub/tree/master/0141-linked-list-cycle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohammadasaad1/NeetHub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mohammadasaad1/NeetHub/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohammadasaad1/NeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/mohammadasaad1/NeetHub/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mohammadasaad1/NeetHub/tree/master/0022-generate-parentheses) |
+| [0139-word-break](https://github.com/mohammadasaad1/NeetHub/tree/master/0139-word-break) |
 | [0443-string-compression](https://github.com/mohammadasaad1/NeetHub/tree/master/0443-string-compression) |
 ## Stack
 |  |
@@ -105,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/mohammadasaad1/NeetHub/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohammadasaad1/NeetHub/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohammadasaad1/NeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/mohammadasaad1/NeetHub/tree/master/0139-word-break) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -159,4 +163,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohammadasaad1/NeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mohammadasaad1/NeetHub/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mohammadasaad1/NeetHub/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
