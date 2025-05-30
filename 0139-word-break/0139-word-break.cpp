@@ -7,7 +7,7 @@ public:
         for(int i = n - 1; i >= 0; i--){
             for(auto w : wordDict){
                 if(i + w.size() <= n && s.substr(i , w.size()) == w)
-                    dp[i] = dp[i + w.size()];
+                    dp[i] |= dp[i + w.size()];
                 
                 if(dp[i]) break; 
             }
