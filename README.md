@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/mohammadasaad1/NeetHub/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/mohammadasaad1/NeetHub/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/mohammadasaad1/NeetHub/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/mohammadasaad1/NeetHub/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohammadasaad1/NeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/mohammadasaad1/NeetHub/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/mohammadasaad1/NeetHub/tree/master/0139-word-break) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohammadasaad1/NeetHub/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/mohammadasaad1/NeetHub/tree/master/0078-subsets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -176,4 +178,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/mohammadasaad1/NeetHub/tree/master/0139-word-break) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mohammadasaad1/NeetHub/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
