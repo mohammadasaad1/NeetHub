@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/mohammadasaad1/NeetHub/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/mohammadasaad1/NeetHub/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/mohammadasaad1/NeetHub/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/mohammadasaad1/NeetHub/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mohammadasaad1/NeetHub/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohammadasaad1/NeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/mohammadasaad1/NeetHub/tree/master/0130-surrounded-regions) |
@@ -66,12 +67,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/mohammadasaad1/NeetHub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mohammadasaad1/NeetHub/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/mohammadasaad1/NeetHub/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/mohammadasaad1/NeetHub/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/mohammadasaad1/NeetHub/tree/master/0141-linked-list-cycle) |
 | [0443-string-compression](https://github.com/mohammadasaad1/NeetHub/tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mohammadasaad1/NeetHub/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/mohammadasaad1/NeetHub/tree/master/0075-sort-colors) |
 | [0883-car-fleet](https://github.com/mohammadasaad1/NeetHub/tree/master/0883-car-fleet) |
 ## Matrix
 |  |
