@@ -1,16 +1,9 @@
 class Solution {
 public:
-   bool containsDuplicate(vector<int>& nums) {
-    map <int , int> freq ;
-    bool is = false ;
-    for(int i : nums) {
-        freq[i]++;
-        if(freq[i] > 1)
-        {
-            is = true ;
-            break ;
-        }
+    bool containsDuplicate(vector<int>& nums) {
+        set <int> st;
+         for(int i : nums) st.insert(i);
+         if(st.size() == nums.size()) return false;
+         return true;
     }
-    return is ; 
-}
 };
