@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/mohammadasaad1/NeetHub/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/mohammadasaad1/NeetHub/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammadasaad1/NeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/mohammadasaad1/NeetHub/tree/master/0204-count-primes) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammadasaad1/NeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohammadasaad1/NeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/mohammadasaad1/NeetHub/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/mohammadasaad1/NeetHub/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/mohammadasaad1/NeetHub/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mohammadasaad1/NeetHub/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohammadasaad1/NeetHub/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -202,4 +204,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mohammadasaad1/NeetHub/tree/master/0451-sort-characters-by-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohammadasaad1/NeetHub/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohammadasaad1/NeetHub/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
