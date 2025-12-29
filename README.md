@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/mohammadasaad1/NeetHub/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohammadasaad1/NeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/mohammadasaad1/NeetHub/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/mohammadasaad1/NeetHub/tree/master/2523-closest-prime-numbers-in-range) |
 ## Array
 |  |
 | ------- |
@@ -212,4 +213,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mohammadasaad1/NeetHub/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/mohammadasaad1/NeetHub/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
