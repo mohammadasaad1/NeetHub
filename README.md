@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/mohammadasaad1/NeetHub/tree/master/0139-word-break) |
 | [0443-string-compression](https://github.com/mohammadasaad1/NeetHub/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/mohammadasaad1/NeetHub/tree/master/0451-sort-characters-by-frequency) |
+| [1392-longest-happy-prefix](https://github.com/mohammadasaad1/NeetHub/tree/master/1392-longest-happy-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -214,4 +215,16 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0204-count-primes](https://github.com/mohammadasaad1/NeetHub/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/mohammadasaad1/NeetHub/tree/master/2523-closest-prime-numbers-in-range) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/mohammadasaad1/NeetHub/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/mohammadasaad1/NeetHub/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/mohammadasaad1/NeetHub/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
