@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/mohammadasaad1/NeetHub/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/mohammadasaad1/NeetHub/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/mohammadasaad1/NeetHub/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohammadasaad1/NeetHub/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohammadasaad1/NeetHub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mohammadasaad1/NeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mohammadasaad1/NeetHub/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/mohammadasaad1/NeetHub/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mohammadasaad1/NeetHub/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/mohammadasaad1/NeetHub/tree/master/0139-word-break) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohammadasaad1/NeetHub/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/mohammadasaad1/NeetHub/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/mohammadasaad1/NeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [1392-longest-happy-prefix](https://github.com/mohammadasaad1/NeetHub/tree/master/1392-longest-happy-prefix) |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mohammadasaad1/NeetHub/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mohammadasaad1/NeetHub/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mohammadasaad1/NeetHub/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Tree
@@ -227,4 +230,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/mohammadasaad1/NeetHub/tree/master/1392-longest-happy-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mohammadasaad1/NeetHub/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
